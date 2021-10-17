@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artvarg
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Ruby and Rails
+- 🌱 I’m currently trying to self host my own cloud with docker
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me artvarg@hotmail.de
 
